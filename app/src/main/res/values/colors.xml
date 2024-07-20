@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="amber_50">#fef9ee</color>
+    <color name="amber_100">#fcf2d8</color>
+    <color name="amber_200">#f9e0af</color>
+    <color name="amber_300">#f6d08d</color>
+    <color name="amber_400">#efa848</color>
+    <color name="amber_500">#eb8e24</color>
+    <color name="amber_600">#dd7519</color>
+    <color name="amber_700">#b75a17</color>
+    <color name="amber_800">#92471a</color>
+    <color name="amber_900">#763c18</color>
+    <color name="amber_950">#3f1d0b</color>
+    <color name="ruby_500">#EB4823</color>
+    <color name="ruby_200">#FF7A68</color>
+
+    <!-- IMC -->
+    <color name="low_weight">#FFDB3C</color>
+    <color name="normal_weight">#43A047</color>
+    <color name="over_weight">#FB8C00</color>
+    <color name="high_weight">#E53935</color>
+
+    <!-- Todoo App -->
+    <color name="background">#131313</color>
+    <color name="yellow_500">#FFD027</color>
+    <color name="yellow_300">#FFE082</color>
+    <color name="accent">#14BAEC</color>
+    <color name="indicator_blue">#0F7BFF</color>
+    <color name="indicator_green">#2FD30A</color>
+    <color name="indicator_red">#E62521</color>
+    <color name="gradient_purple">#4F2FF2</color>
+    <color name="gradient_blue">#37BBF6</color>
+
+    <!--    SuperheroApp-->
+    <color name="superhero_item_name">#8B673AB7</color>
+
+    <color name="superhero_stat_intelligence">#00ff00</color>
+    <color name="superhero_stat_strength">#FF0000</color>
+    <color name="superhero_stat_speed">#E88B00</color>
+    <color name="superhero_stat_durability">#03A9F4</color>
+    <color name="superhero_stat_power">#FFEB3B</color>
+    <color name="superhero_stat_combat">#673AB7</color>
+
+</resources>

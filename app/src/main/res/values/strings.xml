@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">KotlinApp</string>
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+    <string name="Height">Altura</string>
+    <string name="height_default">120 cm</string>
+    <string name="Weight">Peso</string>
+    <string name="Age">Edad</string>
+    <string name="send">Enviar</string>
+    <string name="re_send">Reintentar</string>
+    <string name="result_title">Tu Resultado!</string>
+
+    <string name="error">Error</string>
+
+    <string name="title_low_weight">Bajo peso</string>
+    <string name="title_normal_weight">Peso normal</string>
+    <string name="title_over_weight">Sobrepeso</string>
+    <string name="title_high_weight">Obesidad</string>
+
+    <string name="desc_low_weight">Estás por debajo de lo óptimo de tu peso y altura</string>
+    <string name="desc_normal_weight">Estás en lo óptimo para tu peso y altura</string>
+    <string name="desc_over_weight">Estás por encima de lo óptimo de tu peso y altura</string>
+    <string name="desc_high_weight">Estás muy por encima de lo óptimo de tu peso y altura</string>
+    <string name="welcome">Hola Eddiancito!</string>
+    <string name="categories">Categorías</string>
+    <string name="taks">Tareas</string>
+    <string name="hint_task_name">Nombre de la tarea</string>
+    <string name="business">Negocio</string>
+    <string name="personal">Personal</string>
+    <string name="other">Otro</string>
+    <string name="add_task">Crear tarea</string>
+    <string name="search">Buscar</string>
+
+</resources>
